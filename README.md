@@ -51,6 +51,6 @@ My personal philosophy has long read: **_Light. Changes. Everything._**
 
 ## GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=secondarctic&show_icons=true&locale=en&theme=tokyonight" alt="secondarctic" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=imattking&show_icons=true&locale=en&theme=tokyonight" alt="imattking" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=secondarctic&card_width=470&theme=tokyonight" alt="secondarctic" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=imattking&card_width=470&theme=tokyonight" alt="imattking" /></p>
