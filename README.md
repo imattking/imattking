@@ -13,7 +13,7 @@ I love creating, and building things with code. I am as easily captivated by fin
 
 **Software engineering is my passion**, and it is at the forefront of my endeavors! My background is rooted in more _'aesthetic'_ disciplines. I have a Bachelor of Arts in Journalism (specializing in video production) from the University of Georgia, and a Master of Fine Arts in Photography from the Savannah College of Art & Design.
 
-My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the _Critical Role_ cast, the writing of both Neil Gaiman & Nick Flynn, animation from Japan, and anything involving dungeons, dragons, _or_ both dungeons **_and_** dragons.
+My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the _Critical Role_ cast, the writing of both Anthony Bourdain & Nick Flynn, animation from Japan, and anything involving dungeons, dragons, _or_ both dungeons **_and_** dragons.
 
 My personal philosophy has long read: **_Light. Changes. Everything._**
 
