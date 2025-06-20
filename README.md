@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h4 align="left">A passionate software engineer, photographer, artist, traveler, critter, gamer, and avid D&D enthusiast. <em>So, basically I'm a giant nerd.</em></h3>
 
-- 🔭 I’m currently working on [a Weather App](https://meteor-weather.netlify.app/) using the Open Weather API, as well as building my own D&D character sheet creator & stats tracker
+- 🔭 I’m currently working refactoring on a simple [React Weather App](https://github.com/imattking/meteor-weather-react-app/tree/main) using the Open Weather API, as well as building my own D&D character sheet creator & stats tracker
 
 - 🌱 I’m currently adding **_Svelte_ and _Python_** to my list of technologies
 
