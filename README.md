@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on refactoring on a simple [React Weather App](https://github.com/imattking/meteor-weather-react-app/tree/dev) using the Open Weather API, as well as building my own [D&D character sheet](https://github.com/imattking/dnd-react-app) creator & stats tracker
 
-- 🌱 I’m currently adding **_Svelte_ and _Python_** to my list of technologies
+- 🌱 I’m currently refreshing my skill set with **_Typescript_**
 
 - 💻 Some of my application testing and other sandboxes can be seen on my [Codepen](https://codepen.io/mbkdev)
 
