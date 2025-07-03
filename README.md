@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h4 align="left">A passionate software engineer, photographer, artist, traveler, critter, gamer, and avid D&D enthusiast. <em>So, basically I'm a giant nerd.</em></h3>
+<h4 align="left">A passionate software engineer, artist, traveler, critter, gamer, and avid D&D enthusiast. <em>So, basically I'm a giant nerd.</em></h3>
 
 - 🔭 I’m currently working on refactoring on a simple [React Weather App](https://github.com/imattking/meteor-weather-react-app/tree/dev) using the Open Weather API, as well as building my own [D&D character sheet](https://github.com/imattking/dnd-react-app) creator & stats tracker
 
@@ -9,7 +9,7 @@
 
 - 📸 If you're interested in seeing a few of my photographs you can do that here: [imattking.com](https://imattking.com/)
 
-I love creating, and building things with code. I am as easily captivated by fine-tuning CSS or iterating through array methods, as I am retouching a photograph, playing a video game, watching an episode of _Critical Role_, or reading a book.
+I love building with code. I am as easily captivated by fine-tuning CSS or iterating through array methods, as I am retouching a photograph, playing a video game, watching an episode of _Critical Role_, or reading a book.
 
 **Software engineering is my passion**, and it is at the forefront of my endeavors! My background is rooted in more _'aesthetic'_ disciplines. I have a Bachelor of Arts in Journalism (specializing in video production) from the University of Georgia, and a Master of Fine Arts in Photography from the Savannah College of Art & Design.
 
